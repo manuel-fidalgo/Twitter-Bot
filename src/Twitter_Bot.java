@@ -10,8 +10,8 @@ import twitter4j.conf.ConfigurationBuilder;
 //Google & YouTube Imports
 /* YouTube API unused.
 YouTube youtube;
-String cliente = "943835581973-aniih2m7q89rc213hgh88b15fnpnql0s.apps.googleusercontent.com";
-String secreto = "yGL3TM6HEMomsyjCtB3Z0lCN";
+String cliente = "";
+String secreto = "";
 */
 import com.google.api.client.auth.oauth2.Credential;
 import com.google.api.client.extensions.java6.auth.oauth2.AuthorizationCodeInstalledApp;
